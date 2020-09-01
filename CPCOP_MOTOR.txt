@@ -24,5 +24,8 @@ int main(void)
       PORTF = step_f[cnt]; // ¡§πÊ«‚
       _delay_ms(4);
       }
-   }
+   
+
 }
+
+//
